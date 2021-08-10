@@ -1,0 +1,5 @@
+- Home 
+- Translations 
+    - [:uk: English](/)
+    - [:iran: فارسی](/fa/)
+    - [:sweden: Swedish](/sv/)

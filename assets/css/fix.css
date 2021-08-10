@@ -1,0 +1,27 @@
+@import url(vazir-font.css);
+*{
+    font-family: Vazir;
+}
+input{
+    font-family: Vazir !important;
+}
+.app-name-link img{
+    height: 50px;
+}
+
+.app-nav ul ul{
+    width: 150px;
+}
+
+.rtl{
+    direction: rtl;
+}
+
+.rtl blockquote{
+    border-left-width: 0;
+    border-right-width: 4px ;
+}
+
+pre{
+    direction: ltr !important;
+}

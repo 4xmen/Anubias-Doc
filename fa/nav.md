@@ -1,0 +1,5 @@
+- خانه 
+- ترجمه 
+    - [:uk: English](/)
+    - [:iran: فارسی](/fa/)
+    - [:sweden: Swedish](/sv/)
