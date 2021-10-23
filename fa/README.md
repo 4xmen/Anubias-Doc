@@ -8,15 +8,13 @@
 
 - **‌‌Windows** (10 یا بالاتر)
 - **Linux** ( تمام توزیع هایی که از Snap Store پشتیبانی میکنند.)
-  - Debian 
-  - Ubuntu 
-  - Arch 
+  - Ubuntu | Debian
+  - Arch | Manjaro
   - Linux mint
-  - Cent OS
+  - Red Hat | Cent OS
   - Elementary OS
   - openSuse
   - Fedora
-  - Red Hat
   - Rasberry pi  
 - **MacOSX** 
   - 10.11 El Capitan یا بالاتر

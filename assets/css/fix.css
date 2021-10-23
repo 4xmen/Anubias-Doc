@@ -25,3 +25,8 @@ input{
 pre{
     direction: ltr !important;
 }
+
+img{
+    display: block;
+    margin: auto;
+}
