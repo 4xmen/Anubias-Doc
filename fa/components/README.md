@@ -10,7 +10,7 @@
 - [image](/fa/components/image.md)
 - [input](/fa/components/input.md)
 - [menu](/fa/components/menu.md)
-- [nav](/fa/components/nav.md)
+- [nav](/fa/components/navbar.md)
 - [page](/fa/components/page.md)
 - [preloader](/fa/components/preloader.md)
 - [row](/fa/components/row.md)
