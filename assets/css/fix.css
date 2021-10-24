@@ -30,3 +30,7 @@ img{
     display: block;
     margin: auto;
 }
+
+img.emoji{
+    display: inline-block;
+}
