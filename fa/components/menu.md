@@ -20,5 +20,5 @@
 
 در این قسمت شما می‌توانید به فهرست خود گزینه اضافه یا کم کنید و برای آن آیکون و متن انتخاب کنید و برای کد نویسی هر دکمه
 روی آن double click کنید
-![alt text](../../assets/images/properties/items.png)
+![alt text](/assets/images/properties/items.png)
 

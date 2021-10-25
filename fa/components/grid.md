@@ -22,8 +22,8 @@
 
 برای تغییرات در فرزندان با کلیک روی نماد سمت راست زیر امکان پذیر است
 
-![alt text](../../assets/images/properties/grid.png)
+![alt text](/assets/images/properties/grid.png)
 
 و سپس می‌توانید با دیالوگ زیر فرزندان را حذف یا با Drag ترتیب را جا به جا کنید، و یا آنها را تکثیر کنید
 
-![alt text](../../assets/images/properties/children.png)
+![alt text](/assets/images/properties/children.png)

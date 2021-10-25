@@ -40,4 +40,4 @@
 
 شما می‌توانید با باز کردن این مورد، گزینه ها را تغییر دهید و در پایین یک دکمه برای افزودن وجود دارد
 
-![alt text](../../assets/images/properties/options.png)
+![alt text](/assets/images/properties/options.png)
