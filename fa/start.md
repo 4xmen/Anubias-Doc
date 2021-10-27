@@ -20,6 +20,15 @@ https://flutter.dev/docs/get-started/install
 
 ![alt text](../../assets/images/easyInsattller.png)
 
+
+برای نصب ساده فلاتر به آدرس زیر مراجعه فرمایید:
+
+```
+https://anubias.app/flutter-super-easy-installer
+```
+
+
+
 ##  ساخت برنامه 
 
 هم اکنون شما می‌توانید از آنوبیاس برای ساخت برنامه های خود استفاده کنید و فراموش نکنید،
