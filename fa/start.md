@@ -24,7 +24,7 @@ https://flutter.dev/docs/get-started/install
 برای نصب ساده فلاتر به آدرس زیر مراجعه فرمایید:
 
 ```
-https://anubias.app/flutter-super-easy-installer
+https://anubias.app/page/flutter-super-easy-installer
 ```
 
 
