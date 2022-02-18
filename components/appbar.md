@@ -5,7 +5,7 @@
 AppBar always on top of the page, and `safeArea` of page colors depends on appbar's color,
 and menu active on appbar, so if you have menu appbar is necessary.
 
-![alt text](/assets/images/properties/appbar.png)
+![alt text](/doc/assets/images/properties/appbar.png)
 appbar's image
 
 # properties
@@ -24,4 +24,4 @@ when click on this you manage actions:
 You can add, remove or sort actions, to sort drag and move them up or down, 
 and double click on them to change code of action, The icon or tooltip of actions are customizable. 
 
-![alt text](/assets/images/properties/actions.png)
+![alt text](/doc/assets/images/properties/actions.png)

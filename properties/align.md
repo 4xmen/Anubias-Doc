@@ -9,4 +9,4 @@ Text or component align:
 - `justify` Justify, just for texts.
 
 
-![alt text](/assets/images/properties/align.png)
+![alt text](/doc/assets/images/properties/align.png)

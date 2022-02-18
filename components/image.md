@@ -18,4 +18,4 @@ Show offline or online images.
 
 ## fit
 
-![alt text](/assets/images/properties/imagefit.png)
+![alt text](/doc/assets/images/properties/imagefit.png)

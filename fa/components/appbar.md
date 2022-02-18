@@ -3,7 +3,7 @@
 ## توضیحات 
 AppBar قسمت بالایی صفحه است، امکان در برگرفتن عنوان و برخی از دکمه و ها و منو را داراست و safeArea رنگ خود را با AppBar تطبیق می‌دهد
 
-![alt text](/assets/images/properties/appbar.png)
+![alt text](/doc/assets/images/properties/appbar.png)
 
 تصویر یک appbar در برنامه
 
@@ -23,4 +23,4 @@ AppBar قسمت بالایی صفحه است، امکان در برگرفتن ع
 همانند تصویر می‌توانید دکمه‌ها را مدیریت کنید، اضافه یا حذف کنید آیکون و tooltip آن را تغییر دهید،
 و یا با Darg & Drop  می‌توانید ترتیب‌های آنها را تغییر دهید، و با دوبار کلیک کردن روی آنها رویداد هنگام کلیک شدن آن‌را تغییر دهید
 
-![alt text](/assets/images/properties/actions.png)
+![alt text](/doc/assets/images/properties/actions.png)

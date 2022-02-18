@@ -15,7 +15,7 @@ You can navigate between pages.
 - [bgColor](/properties/color.md/) :background color
 - scrollable: scrollable status
 - safeArea : when check add safeArea to page:
-    - ![alt text](/assets/images/properties/safeArea.png)
+    - ![alt text](/doc/assets/images/properties/safeArea.png)
 - [padding](/properties/padding.md): padding
 - [align](/properties/align.md): align of childrens
 - [onShow](/events.md) : events run when page show

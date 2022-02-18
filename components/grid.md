@@ -22,8 +22,8 @@ Grid help you to structured gird with children
 
 To change and sort children click on right button icon:
 
-![alt text](/assets/images/properties/grid.png)
+![alt text](/doc/assets/images/properties/grid.png)
 
 Then you can sort (drag to top or bottom), duplicate or remove children:
 
-![alt text](/assets/images/properties/children.png)
+![alt text](/doc/assets/images/properties/children.png)

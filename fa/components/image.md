@@ -18,4 +18,4 @@
 
 ## fit | نحوه نمایش
 
-![alt text](/assets/images/properties/imagefit.png)
+![alt text](/doc/assets/images/properties/imagefit.png)

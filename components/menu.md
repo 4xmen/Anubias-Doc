@@ -22,5 +22,5 @@ Here you can add or remove menu items, or sort (drag to up or down),
 The items has icon and label (text), to define code for items,
 double click on them.
 
-![alt text](/assets/images/properties/items.png)
+![alt text](/doc/assets/images/properties/items.png)
 
