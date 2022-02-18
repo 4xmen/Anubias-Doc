@@ -1,5 +1,5 @@
 - Home 
-- Translations 
-    - [:uk: English](/)
+- Translates 
+    - [:us: English](/)
     - [:iran: پارسی](/fa/)
     - [:sweden: Swedish](/sv/)

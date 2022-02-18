@@ -65,11 +65,12 @@
 <script>
     setInterval(function () {
         let hash = window.location.hash;
-        if (hash.indexOf('fa') != -1 || hash.indexOf('ar') != -1) {
+        if (hash.indexOf('fa') != -1 ) {
             document.querySelector('#main').classList.add('rtl');
             document.querySelector('#main').style = '--blockquote-border-radius:4px 0 0 4px;';
 
         } else {
+            console.log('xxx');
             document.querySelector('#main').classList.remove('rtl');
             document.querySelector('#main').style = '';
             // document.querySelector('.sidebar-nav')[0].classList.remove('rtl');
