@@ -13,4 +13,4 @@ space you must insert comma.
 > 
 > When four values are specified, the margins apply to the top, right, bottom, and left in that order (clockwise).
 
-![alt text](../assets/images/properties/margin.png)
+![alt text](/assets/images/properties/margin.png)

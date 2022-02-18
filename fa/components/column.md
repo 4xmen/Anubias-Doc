@@ -13,7 +13,7 @@
 - [height](/fa/properties/height.md) : ارتفاع
 - [width](/fa/properties/width.md) : عرض
 - [bgColor](/fa/properties/color.md) : رنگ زمینه
-- [boderColor](/fa/properties/color.md) : رنگ خط حاشیه
+- [borderColor](/fa/properties/color.md) : رنگ خط حاشیه
 - border - ضخامت قاب حاشیه
 - [borderRadius](fa/properties/borderRadius.md): گردی لبه ها
 - hide: پنهان ( این ویژگی در صورت فعال شدن المان ناپیدا می‌شود)

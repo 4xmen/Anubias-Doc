@@ -9,4 +9,4 @@
 - `justify` حالت رسمی : فقط قابل استفاده برای متون
 
 
-![alt text](../../assets/images/properties/align.png)
+![alt text](/assets/images/properties/align.png)

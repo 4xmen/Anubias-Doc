@@ -11,7 +11,6 @@
 - [bgColor](/fa/properties/color.md) : رنگ زمینه
 - [color](/fa/properties/color.md) : رنگ متن
 - [activeColor](/fa/properties/color.md) : رنگ زمان فعال شدن
-- image: عکس زمینه بالا در صورت انتخاب این گزینه رنگ زمینه ممکن است نا مشخص شود
 - state: وضعیت روشن/خاموش بودن
 - [onChanged](/fa/events.md) : کد نویسی برای زمان تغییر
 - [padding](/fa/properties/padding.md): حاشیه از داخل

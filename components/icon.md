@@ -1,15 +1,15 @@
-# icon | نماد یا آیکون
+# icon
 
-## توضیحات
+## description
 
-نمایش یک نماد یا آیکون در صفحه
+Show a icon of material
 
-## ویژگی‌ها
+# properties
 
-- [name](/fa/properties/name.md): نام
-- [padding](/fa/properties/padding.md): حاشیه از داخل
-- [icon](/fa/properties/icon.md) : نماد یا آیکون
-- [color](/fa/properties/color.md) : رنگ آیکون
-- [align](/fa/properties/align.md): جهت قرارگیری
-- size: سایز آیکون
-- hide: پنهان ( این ویژگی در صورت فعال شدن المان ناپیدا می‌شود)
+- [name](/properties/name.md): name
+- [padding](/properties/padding.md): padding
+- [icon](/properties/icon.md) : Icon
+- [color](/properties/color.md) : color
+- [align](/properties/align.md): align of icon
+- size: icon's size (pixel) 
+- hide: hiding component (if you check it, the component hiding)

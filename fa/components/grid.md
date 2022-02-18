@@ -13,7 +13,7 @@
 - childAspectRatio: تقسیم هر سطر به این عدد می‌باشد،
   یعنی اگر شما ۲ را قرار دهید، دوتا دوتا المان‌ها کنار هم می‌چنید
 - [bgColor](/fa/properties/color.md) : رنگ زمینه
-- [boderColor](/fa/properties/color.md) : رنگ خط حاشیه
+- [borderColor](/fa/properties/color.md) : رنگ خط حاشیه
 - border - ضخامت قاب حاشیه
 - [borderRadius](fa/properties/borderRadius.md): گردی لبه ها
 - hide: پنهان ( این ویژگی در صورت فعال شدن المان ناپیدا می‌شود)

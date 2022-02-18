@@ -9,4 +9,4 @@
 > 
 >  در چهار عدد، ساعت گرد می‌باشد، یعنی عدد از اول به چهارم به ترتیب : بالا راست، پایین ، چپ می‌باشد
 
-![alt text](../../assets/images/properties/padding.png)
+![alt text](/assets/images/properties/padding.png)

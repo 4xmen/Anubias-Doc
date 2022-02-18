@@ -21,7 +21,7 @@ https://flutter.dev/docs/get-started/install
 
 Otherwise we create flutter super easy installer for windows and Linux
 
-![alt text](../../assets/images/easyInsattller.png)
+![alt text](/assets/images/easyInsattller.png)
 
 
 Flutter super easy installer available here:
@@ -36,7 +36,7 @@ https://anubias.app/page/flutter-super-easy-installer
 
 Now you can start new project, when anubias started you can see some template, 
 If you click on them, download and open, that you can watch samples how develop your app 
-![alt text](../../assets/images/templates.png)
+![alt text](/assets/images/templates.png)
 
 ## Support 
 
