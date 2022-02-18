@@ -1,5 +1,5 @@
 - خانه 
 - ترجمه 
-    - [:uk: English](/)
+    - [:us: English](/)
     - [:iran: پارسی](/fa/)
     - [:sweden: Swedish](/sv/)
