@@ -23,8 +23,8 @@
 
 برای تغییرات در فرزندان با کلیک روی نماد سمت راست زیر امکان پذیر است
 
-![alt text](/doc/assets/images/properties/row.png)
+![alt text](https://anubias.app/doc/assets/images/properties/row.png)
 
 و سپس می‌توانید با دیالوگ زیر فرزندان را حذف یا با Drag ترتیب را جا به جا کنید، و یا آنها را تکثیر کنید
 
-![alt text](/doc/assets/images/properties/children.png)
+![alt text](https://anubias.app/doc/assets/images/properties/children.png)

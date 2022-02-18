@@ -41,4 +41,4 @@ Dropdown selector one or multi options between options
 
 You can define your options here, and bottom of the form has add options button.
 
-![alt text](/doc/assets/images/properties/options.png)
+![alt text](https://anubias.app/doc/assets/images/properties/options.png)

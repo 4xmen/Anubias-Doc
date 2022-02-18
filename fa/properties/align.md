@@ -9,4 +9,4 @@
 - `justify` حالت رسمی : فقط قابل استفاده برای متون
 
 
-![alt text](/doc/assets/images/properties/align.png)
+![alt text](https://anubias.app/doc/assets/images/properties/align.png)

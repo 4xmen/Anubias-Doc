@@ -18,4 +18,4 @@
 
 ## fit | نحوه نمایش
 
-![alt text](/doc/assets/images/properties/imagefit.png)
+![alt text](https://anubias.app/doc/assets/images/properties/imagefit.png)

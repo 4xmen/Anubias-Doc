@@ -9,4 +9,4 @@ Text or component align:
 - `justify` Justify, just for texts.
 
 
-![alt text](/doc/assets/images/properties/align.png)
+![alt text](https://anubias.app/doc/assets/images/properties/align.png)

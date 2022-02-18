@@ -25,7 +25,7 @@ https://flutter.dev/docs/get-started/install
 
 برای کابران ویندوز یک بسته نصب ساده فلاتر نوشتیم، که با چند کلیک میتواند فلاتر را نصب نمایند
 
-![alt text](/doc/assets/images/easyInsattller.png)
+![alt text](https://anubias.app/doc/assets/images/easyInsattller.png)
 
 
 برای نصب ساده فلاتر به آدرس زیر مراجعه فرمایید:
@@ -41,7 +41,7 @@ https://anubias.app/page/flutter-super-easy-installer
 هم اکنون شما می‌توانید از آنوبیاس برای ساخت برنامه های خود استفاده کنید و فراموش نکنید،
 چند template آزمایشی برای شما فراهم کردیم تا با روند ساخت برنامه آشنا شوید و فقط کافی است روی آن کلیک کنید. 
 
-![alt text](/doc/assets/images/templates.png)
+![alt text](https://anubias.app/doc/assets/images/templates.png)
 
 ## حمایت 
 

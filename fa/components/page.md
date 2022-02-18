@@ -13,7 +13,7 @@
 - [bgColor](/fa/properties/color.md) : رنگ زمینه
 - scrollable: قابلیت اسکرول شدن
 - safeArea : داشتن قسمت امن
-    - ![alt text](/doc/assets/images/properties/safeArea.png)
+    - ![alt text](https://anubias.app/doc/assets/images/properties/safeArea.png)
 - [padding](/fa/properties/padding.md): حاشیه از داخل
 - [align](/fa/properties/align.md): جهت قرارگیری
 - [onShow](/fa/events.md) : کد نویسی برای زمان نمایش صفحه
