@@ -34,3 +34,7 @@ img{
 img.emoji{
     display: inline-block;
 }
+
+td,th{
+    border: 1px solid #77777788 !important;
+}

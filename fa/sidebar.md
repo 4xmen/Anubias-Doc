@@ -31,3 +31,7 @@
   - [text](/fa/components/text.md)
   - [toggle](/fa/components/toggle.md)
 -[Events | رویدادها](/fa/events.md)  
+- [Classes](/fa/classes.md)
+  - [app](/fa/classes/app.md)
+  - [toast](/fa/classes/toast.md)
+  - [storage](/fa/classes/storage.md)     
