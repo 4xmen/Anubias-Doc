@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700px" height="780px" viewBox="0 0 700 780" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>diagonal-shape-3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Landing-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.760546875">
+        <g id="03_vApp-v1" transform="translate(-900.000000, 0.000000)" fill="#F6F9FE">
+            <g id="HERO" transform="translate(246.000000, -558.000000)">
+                <path d="M859.662281,419.008048 L1743.71644,419.008048 C1917.17533,419.008048 2057.79154,559.624259 2057.79154,733.083146 C2057.79154,906.542033 1917.17533,1047.15824 1743.71644,1047.15824 L859.662281,1047.15824 C686.203394,1047.15824 545.587183,906.542033 545.587183,733.083146 C545.587183,559.624259 686.203394,419.008048 859.662281,419.008048 Z" id="diagonal-shape-3" transform="translate(1301.689361, 733.083146) rotate(-41.000000) translate(-1301.689361, -733.083146) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

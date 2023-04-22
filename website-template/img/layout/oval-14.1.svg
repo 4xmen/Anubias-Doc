@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="577px" height="599px" viewBox="0 0 577 599" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>oval-14.2.svg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M201.667825,166.379686 C284.989874,116.625272 640.350779,5.95772773 683.644329,278.938027 C726.93788,551.918325 537.983791,702.393716 400.984808,713.247987 C263.985826,724.102259 135.473038,469.036699 118.805562,372.070279 C102.138085,275.103859 118.345776,216.1341 201.667825,166.379686 Z" id="path-1"></path>
+    </defs>
+    <g id="Landing-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03_vApp-v4" transform="translate(-916.000000, -156.000000)">
+            <g id="HERO" transform="translate(246.000000, 57.000000)">
+                <g id="hero-14.1" transform="translate(520.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="oval-14.2.svg" fill="#232930" transform="translate(401.443552, 407.608134) rotate(29.000000) translate(-401.443552, -407.608134) " xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
