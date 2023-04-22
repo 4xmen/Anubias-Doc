@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="196px" height="196px" viewBox="0 0 196 196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>triangle-2.1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Landing-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.0689732143">
+        <g id="01_vApp-v1---3" transform="translate(-1209.000000, -1763.000000)" fill="#2F312B">
+            <g id="CONTENT" transform="translate(310.000000, 1272.000000)">
+                <g id="1" transform="translate(1.000000, 273.000000)">
+                    <g id="triangle-2.1" transform="translate(898.000000, 218.000000)">
+                        <polygon id="Fill-1" points="0 168 0 196 28 168"></polygon>
+                        <polygon id="Fill-2" points="70 126 42 126 42 154"></polygon>
+                        <polygon id="Fill-3" points="112 84 84 84 84 112"></polygon>
+                        <polygon id="Fill-4" points="154 42 126 42 126 70"></polygon>
+                        <polygon id="Fill-5" points="168 0 168 28 196 0"></polygon>
+                        <polygon id="Fill-6" points="0 126 0 154 28 126"></polygon>
+                        <polygon id="Fill-7" points="70 84 42 84 42 112"></polygon>
+                        <polygon id="Fill-8" points="112 42 84 42 84 70"></polygon>
+                        <polygon id="Fill-9" points="126 0 126 28 154 0"></polygon>
+                        <polygon id="Fill-10" points="0 84 0 112 28 84"></polygon>
+                        <polygon id="Fill-11" points="70 42 42 42 42 70"></polygon>
+                        <polygon id="Fill-12" points="84 0 84 28 112 0"></polygon>
+                        <polygon id="Fill-13" points="0 42 0 70 28 42"></polygon>
+                        <polygon id="Fill-14" points="42 0 42 28 70 0"></polygon>
+                        <polygon id="Fill-15" points="0 0 0 28 28 0"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

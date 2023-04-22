@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1097px" height="879px" viewBox="0 0 1097 879" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>Rectangle-1</title>
+    <desc>Created with Sketch.</desc>
+
+
+
+    <defs>
+        <linearGradient x1="100%" y1="64.757237%" x2="0%" y2="35.242763%" id="linearGradient-1">
+            <stop stop-color="#2F1CE0" offset="0%"></stop>
+            <stop stop-color="#53A0FD" offset="50.1054315%"></stop>
+            <stop stop-color="#51ECA5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_vApp-v1---4" transform="translate(-454.000000, -333.000000)" fill="url(#linearGradient-1)">
+            <g id="HERO" transform="translate(-264.000000, -50.000000)">
+                <g id="BG">
+                    <rect id="Rectangle-1" transform="translate(1266.899434, 822.500000) rotate(-28.000000) translate(-1266.899434, -822.500000) " x="688" y="508" width="1157.79887" height="629" rx="314.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
